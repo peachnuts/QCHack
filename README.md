@@ -8,8 +8,8 @@ Please find our code in the [`notebook`](https://github.com/peachnuts/QCHack/blo
 
 ## Audio
 
-1. From the csv file, we took an average of the data, and subtracted it from each of the data values, so that there would be both negative and positive data points, to make the sound better and so the waveform would be more balanced over the center.  
-2. We then imported the updated txt file into Audacity by going to File > Import > Raw Data with the settings: 
+1. From the initial csv file, we took an average of the data, and subtracted it from each of the data values, so that there would be both negative and positive data points, to make the sound better and so the waveform would be more balanced over the center.  
+2. We then imported the updated csv file into Audacity by going to File > Import > Raw Data with the settings: 
                                                Encoding: Signed 8-bit PCM (we tried some values in binary form but weren't able to notice a difference for                                                                        some reason, so we used decimal)
                                                Byte order: Little-endian
                                                Channels: 1 Channel (Mono)
