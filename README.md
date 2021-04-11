@@ -4,4 +4,4 @@ Please find our code in the [`notebook`](https://github.com/peachnuts/QCHack/blo
 ## Steps 
 1. We first create a simple circuit to show the impact of quantum interference.
 2. Then, we demonstrate a show case of quantum interference using Simon's algorithm.
-3. 
+3. Finally, we develop
